@@ -14,12 +14,11 @@
 <div>
  <p>
 
-I am 21 years old and I study Electrical Engineering. My course enphasis is on AI. Currently I study Data Science by myself and with some courses on DataCamp. 
-My expertise right now is on creating Dashboards for data visualization. I like to use opensource tools, like Python's Streamlit library, wich allows you to create simple and yet powerful WebApp for an easy server deploy. 
+I am 21 years old and I am a Data Scientist. Currently I study Data Science by myself and with some courses on DataCamp. I do Electrical Engineering as well with AI emphasis.
+My expertise right now is on creating Dashboards for data visualization. I like to use opensource tools, such as Python's Streamlit library, wich allows you to create simple and yet powerful WebApp for an easy server deploy. 
+I do create data solutions for the BI area. I can make my way on every data demand. Just give me some time to think and search on StackOverflow.  
    
-Currently, I work as a Data Scientist Intern on Prometeon Tyre Group. I create data solutions for the BI area. I can make my way on every data demand. Just give me some time to think and search on StackOverflow.  
-   
-I'm currently looking for an oportunity to prove myself on a regular job. Just need to improve my dataskills.
+I'm currently looking for an oportunity to prove myself on a junior level job. 
 
 </h4>
 </div>
