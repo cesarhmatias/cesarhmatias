@@ -36,7 +36,6 @@ I'm currently looking for an oportunity to prove myself on a junior level job.
 
 <br />
 
-#[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
 Doing some Dashboards for porfolio and showing my skills to Tech Recruiters.
 
 <br />
