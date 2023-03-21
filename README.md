@@ -6,7 +6,7 @@
 <br />
 <br />
 
-I'm a Python developer with experience in Big Data, Web Scraping, and Automation. Currently, I work at Saúde Trevo, where I create dashboards, analyze data from the Brazilian health system, plans of health at the national level, and work on automation and web scraping. I also develop routes in FastAPI to provide scalable and fast web services. My skills include PostgreSQL, MongoDB, AWS, Python, Web Scraping, Scrapy, Machine Learning, Big data, and FastAPI.
+I'm a Python developer with experience in Big Data, Web Scraping, and Automation. Currently, I work at Saúde Trevo, where I create dashboards, analyze data from the Brazilian health system, health insurance cost at the national level, and work on automation and web scraping. I also develop routes in FastAPI to provide scalable and fast web services. My skills include PostgreSQL, MongoDB, AWS, Python, Web Scraping, Scrapy, Machine Learning, Big data, and FastAPI.
 
 Previously, I worked at Prometeon Tyre Group, where I developed tools for data visualization using Streamlit and Docker, QlikSense, and Metabase. I was responsible for automating internal processes and performing ETL tasks. I analyzed and treated data collected from the market to monitor tire prices. My principal project was the automation of 500 purchase orders, which saved approximately a week of work for a team of 5 people. My skills include Python, ETL tools, Streamlit, Pandas, SQL, and Docker.
 
