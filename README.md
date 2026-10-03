@@ -4,7 +4,7 @@
 
 I build Python services that turn fragmented data into useful products — from distributed web scraping and data normalization to APIs, automation, and LLM-powered workflows.
 
-Based in São Paulo, Brazil. Currently a Founding Software Engineer at **CarBigData**, with previous experience across healthcare, industrial digitalization, and embedded systems.
+Based in São Paulo, Brazil. Currently a Software Engineer at **CarBigData**, with previous experience across healthcare, industrial digitalization, and embedded systems.
 
 [LinkedIn](https://www.linkedin.com/in/cesarhmmatias/) · [Public repositories](https://github.com/cesarhmatias?tab=repositories)
 
@@ -22,10 +22,6 @@ My professional work includes a distributed data acquisition platform, a RAG/MCP
 ### [Bot Detection Lab](https://github.com/cesarhmatias/akamai-style-bot-lab)
 
 A local educational environment for studying bot detection and testing automation against a server you control. Combines a **FastAPI backend, Go edge proxy, Redis, Docker, and Playwright**, with documented detection signals and a client test matrix. An independent simulation, not an Akamai product or replica.
-
-### [SaaS Starter](https://github.com/cesarhmatias/whatsmobot)
-
-A full-stack starter with a link-in-bio example, multi-tenant workspaces, authentication, billing, background jobs, webhooks, and an authenticated MCP interface. Built with **TypeScript, Next.js, Elysia, Prisma, PostgreSQL, and BullMQ**. The repository retains its original name, `whatsmobot`.
 
 ## Data & hardware studies
 
