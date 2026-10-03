@@ -1,44 +1,43 @@
-### Hi there 👋 I am [Cesar Matias](https://github.com/cesarhmatias)
+# Cesar Matias
 
-<a href="https://www.linkedin.com/in/cesar-henrique-mataran-matias-4789bb1a3/">
-  <img align="left" alt="Cesar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-<br />
+### Backend Engineering · Data Platforms · Applied AI
 
-I'm a Python developer with experience in Big Data, Web Scraping, and Automation. Currently, I work at Saúde Trevo, where I create dashboards, analyze data from the Brazilian health system, health insurance cost at the national level, and work on automation and web scraping. I also develop routes in FastAPI to provide scalable and fast web services. My skills include PostgreSQL, MongoDB, AWS, Python, Web Scraping, Scrapy, Machine Learning, Big data, and FastAPI.
+I build Python services that turn fragmented data into useful products — from distributed web scraping and data normalization to APIs, automation, and LLM-powered workflows.
 
-Previously, I worked at Prometeon Tyre Group, where I developed tools for data visualization using Streamlit and Docker, QlikSense, and Metabase. I was responsible for automating internal processes and performing ETL tasks. I analyzed and treated data collected from the market to monitor tire prices. My principal project was the automation of 500 purchase orders, which saved approximately a week of work for a team of 5 people. My skills include Python, ETL tools, Streamlit, Pandas, SQL, and Docker.
+Based in São Paulo, Brazil. Currently a Founding Software Engineer at **CarBigData**, with previous experience across healthcare, industrial digitalization, and embedded systems.
 
-I'm currently pursuing a Bachelor's degree in Electrical Engineering with an emphasis on programming and computation at Centro Universitário FEI. My competencies include Java, Object-Oriented Programming (OOP), Computer Engineering, Linear Algebra, and Python.
+[LinkedIn](https://www.linkedin.com/in/cesarhmmatias/) · [Public repositories](https://github.com/cesarhmatias?tab=repositories)
 
-Overall, my experience and skills make me a competent Python developer with a strong background in data analysis and automation.
+## What I work on
 
-<div><p>My profile overview: </p></div>
+- **Backend systems:** Python, FastAPI, Django, REST APIs, asynchronous processing, and service integrations.
+- **Data engineering:** web scraping, ETL, Pandas, SQL, and normalization of semi-structured data.
+- **Distributed infrastructure:** RabbitMQ, PostgreSQL, Redis, Docker, AWS, and CI/CD.
+- **Applied AI:** RAG, MCP integrations, semantic retrieval and vector database concepts, plus AI-assisted development with Claude Code and Codex.
 
-![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarhmatias&show_icons=true)
-<br />
-<br />
-<br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
+My professional work includes a distributed data acquisition platform, a RAG/MCP dashboard for exploring collected data, and automated monitoring and notification workflows. These are separate from the public projects below; employer and client source code is not published here.
 
-<br />
+## Selected public projects
 
-Doing some Dashboards for porfolio and showing my skills to Tech Recruiters.
+### [Bot Detection Lab](https://github.com/cesarhmatias/akamai-style-bot-lab)
 
-<br />
+A local educational environment for studying bot detection and testing automation against a server you control. Combines a **FastAPI backend, Go edge proxy, Redis, Docker, and Playwright**, with documented detection signals and a client test matrix. An independent simulation, not an Akamai product or replica.
 
+### [SaaS Starter](https://github.com/cesarhmatias/whatsmobot)
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
+A full-stack starter with a link-in-bio example, multi-tenant workspaces, authentication, billing, background jobs, webhooks, and an authenticated MCP interface. Built with **TypeScript, Next.js, Elysia, Prisma, PostgreSQL, and BullMQ**. The repository retains its original name, `whatsmobot`.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cesarhmatias.cesarhmatias)
+## Data & hardware studies
 
+Earlier learning projects, kept separate from my current backend work:
 
+- [ESP32 temperature sensors](https://github.com/cesarhmatias/esp32_temperature_sensor_micropython) — MicroPython experiments with DS18B20/LM35 sensors, sampling, and ADC calibration.
+- [Google Play app market](https://github.com/cesarhmatias/The-Android-App-Market-on-Google-Play) — notebook-based data analysis.
+- [Netflix movies & The Office](https://github.com/cesarhmatias/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office) — exploratory notebook study.
+- [Titanic](https://github.com/cesarhmatias/titanic_kaggle_competition_1) and [Spaceship Titanic](https://github.com/cesarhmatias/titanic_spaceship_kaggle_competition_2) — Kaggle learning notebooks; experiments rather than production services.
 
-Template Credit: [ApurvShah007](https://github.com/ApurvShah007)
+## Background
 
-Last Edited on: 21/04/2022
+Electrical Engineering graduate from **Centro Universitário FEI**, with an emphasis on programming and computing. I enjoy working across software, data, and real-world operational problems — understanding the need, building the integration, and making the result useful.
+
+For professional opportunities or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/cesarhmmatias/).
